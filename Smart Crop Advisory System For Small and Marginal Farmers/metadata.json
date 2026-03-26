@@ -1,0 +1,5 @@
+{
+  "name": "KrishiSathi: Smart Crop Advisory",
+  "description": "An AI-powered advisory system for small and marginal farmers providing crop recommendations, disease detection, and real-time weather alerts.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
